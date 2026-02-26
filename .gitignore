@@ -1,0 +1,33 @@
+# Python-generated files
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+
+# Env files
+.env
+
+# Vector DB (optional - depends if you want it tracked)
+data/vector_db/
+
+# Output files
+output/stamped_i9s/
+
+# uv
+.uv/__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
