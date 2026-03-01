@@ -6,10 +6,12 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb>=1.5.1",
+    "cryptography>=46.0.5",
     "fastapi>=0.133.1",
     "openai>=2.24.0",
     "pypdf>=6.7.3",
     "python-dotenv>=1.2.1",
     "python-multipart>=0.0.22",
+    "reportlab>=4.4.10",
     "uvicorn>=0.41.0",
 ]
